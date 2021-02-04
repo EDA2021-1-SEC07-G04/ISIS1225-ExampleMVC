@@ -27,4 +27,6 @@ Este directorio contiene todo el código de base que se entrega para el funciona
 
     |-- Utils: Funciones auxiliares para el funcionamiento de los TADs y estructuras de datos
 
-
+    DATOS DE INTEGRANTES:
+-- Juan Pablo Tatis Goenaga, j.tatis@uniandes.edu.co, 202022217
+-- Santiago Rodríguez Cruz, s.rodriguez52@uniandes.edu.co, 202013371
